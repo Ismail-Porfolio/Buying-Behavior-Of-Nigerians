@@ -57,5 +57,5 @@ Understand demographic trends in shopping behavior
 - Maintaining high product quality while implementing competitive and affordable pricing should remain a priority.
 - As Physical Stores rank as the second-largest shopping platform, businesses should prioritize maintaining high product quality to strengthen customer satisfaction and encourage repeat purchases.
 
-
+## ![Dashboard Overview](https://github.com/Ismail-Porfolio/Buying-Behavior-Of-Nigerians/blob/main/Dashboard_Overview.png)
 
