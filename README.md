@@ -22,6 +22,7 @@ Understand demographic trends in shopping behavior
 - Payment Methods: Transfer, Card, Cash, Wallet
 - Product Categories: Food, Groceries, Fashion, Beauty, Electronics
 
+## [Dataset Analysis](
 
 ## 🔍 Key Insights
 - Gender Split: 64% Male, 36% Female
